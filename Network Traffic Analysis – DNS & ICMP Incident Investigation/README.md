@@ -28,7 +28,7 @@ As a cybersecurity analyst, your task was to inspect network traffic using `tcpd
 ## 📂 **Project Files**
 
 ```
-network-traffic-analysis-dns-icmp/
+Network Traffic Analysis – DNS & ICMP Incident Investigation/
 │── README.md                ← you are here
 │── incident_report.md       ← full detailed analysis
 │── tcpdump-log.txt          ← captured test traffic
